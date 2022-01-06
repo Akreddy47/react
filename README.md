@@ -1,2 +1,4 @@
 # react
-My react applications 
+import axios 
+npm start 
+npm npm run json-server
